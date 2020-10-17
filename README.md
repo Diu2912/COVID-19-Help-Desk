@@ -1,6 +1,6 @@
 # COVID-19 Help Desk 
 
-# End-to-End Covid-19 chatbot using DialogFlow,Python deployed on google Cloud  and Telegram
+# Covid-19 chatbot using DialogFlow,Python deployed on google Cloud  and Telegram
 
 # 🌟🌟🌟  Girls Hoo Hack 2020  🌟🌟🌟
 
@@ -26,7 +26,8 @@ Our chatbot is helpful for companies in the technology sector who want to help s
 d
 If you like my work kindly hit 🌟🌟🌟
 
+# **👩 Our Team : [Goal Achiever]**
 
-Our Team : [Goal Achiever]
-*Divya Rajput
-*Jyoti Rajput
+>## **Project Leader: Divya Rajput**
+>## **Project Member: Jyoti Rajput**
+
