@@ -2,7 +2,7 @@
 
 # Covid-19 chatbot using DialogFlow,Python deployed on google Cloud  and Telegram
 
-# 🌟🌟🌟  Girls Hoo Hack 2020  🌟🌟🌟
+
 
 
 The COVID-19 breakout has major consequences for over the worldwide. People's want to rightly concerned and have many urgent questions. The World Health Organization(WHO) provides answers to frequently asked questions regarding the COVID-19 on their official website. Our chatbot could perfectly helpful with this!
@@ -29,5 +29,5 @@ If you like my work kindly hit 🌟🌟🌟
 # **👩 Our Team : [Goal Achiever]**
 
 >## **Project Leader: Divya Rajput**
->## **Project Member: Jyoti Rajput**
+
 
